@@ -72,5 +72,5 @@ Remember, practice regularly and work on projects to reinforce your learning.
 Understanding Python's syntax is foundational. Practice and experiment to reinforce your understanding. Happy coding!
 
 <div align="right" style="position: absolute; bottom: 10px; right: 10px;">
-   <a href="https://github.com/ravi26067/Coding/blob/master/Python/tutorial/basic_syntax.md" style="color: transparent; text-decoration: none;">Next</a>
+   <a href="https://github.com/ravi26067/DSA_Python/blob/master/Python/tutorial/basic_syntax.md" style="color: transparent; text-decoration: none;">Next</a>
 </div>
