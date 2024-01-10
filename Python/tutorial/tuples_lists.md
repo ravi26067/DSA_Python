@@ -19,7 +19,7 @@ my_list = [1, 2, 3, 'apple', 'banana', [5, 6, 7]]
   print(my_list[-1])  # Accessing the last element
   ```
   
-- **Slicing:** Subsets of a list can be accessed using slicing.
+- **[Slicing](https://github.com/ravi26067/DSA_Python/blob/master/Python/tutorial/slicing.md):** Subsets of a list can be accessed using slicing.
   
   ```python
   print(my_list[2:5])  # Elements from index 2 to 4
