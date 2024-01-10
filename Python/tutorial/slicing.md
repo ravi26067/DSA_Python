@@ -44,3 +44,6 @@ print(reversed_list)  # Output: [9, 8, 7, 6, 5, 4, 3, 2, 1]
 ```
 
 Slicing allows you to extract parts of sequences efficiently without modifying the original sequence. It's a powerful feature in Python, enabling various manipulations like extracting substrings, selecting specific elements, reversing sequences, and more.
+
+<div align="left" style="position: absolute;"><a href="tuples_lists.md"><button>Previous</button></a></div>
+<div align="right" style="position: absolute;"><a href="package.md"><button>Next</button></a></div>
