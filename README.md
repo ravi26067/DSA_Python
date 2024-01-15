@@ -1,5 +1,6 @@
 # Data Structures and Algorithms in Python
 
+
 This repository contains implementations and explanations of various data structures and algorithms in Python.
 
 ## Table of Contents
