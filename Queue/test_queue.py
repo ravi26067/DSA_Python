@@ -1,8 +1,8 @@
-from Queue.queue_using_stack import Queue
+import queue_using_stack
 
 
 def test_enqueue():
-    q = Queue()
+    q = queue_using_stack.Queue()
     q.enQueue(5)
     q.enQueue(10)
     q.enQueue(1)
@@ -10,7 +10,7 @@ def test_enqueue():
 
 
 def test_dequeue():
-    q = Queue()
+    q = queue_using_stack.Queue()
     q.enQueue(5)
     q.enQueue(10)
     q.enQueue(1)
@@ -19,12 +19,12 @@ def test_dequeue():
 
 
 def test_dequeue_empty_queue():
-    q = Queue()
+    q = queue_using_stack.Queue()
     assert q.deQueue() == -1
 
 
 def test_print_queue():
-    q = Queue()
+    q = queue_using_stack.Queue()
     q.enQueue(5)
     q.enQueue(10)
     q.enQueue(1)
@@ -32,5 +32,5 @@ def test_print_queue():
 
 
 def test_print_empty_queue():
-    q = Queue()
+    q = queue_using_stack.Queue()
     assert q.printQueue() == "Queue is empty"
